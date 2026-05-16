@@ -230,7 +230,8 @@ print(classification_report(testing_b,predicted_values))
 
 <H3>Output:</H3>
 
-![OUTPUT](image.png)
+<img width="721" height="762" alt="image" src="https://github.com/user-attachments/assets/14181503-a99b-4612-8e7f-54789b80cead" />
+
 
 
 <H3>Result:</H3>
